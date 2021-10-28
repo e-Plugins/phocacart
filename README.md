@@ -38,5 +38,4 @@ Check out the specific installation instructions and tips on https://www.e-plugi
 
 ## Troubleshooting
 
-
 Please see the FAQ on https://www.e-plugins.nl/phocacart#tab_help
